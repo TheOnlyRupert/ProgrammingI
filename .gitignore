@@ -1,0 +1,8 @@
+# Ignored Folders:
+/.git
+/.idea
+/out
+/Versions
+
+# Ignored Files:
+.gitattributes
